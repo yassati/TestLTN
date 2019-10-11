@@ -1,10 +1,10 @@
 import React from 'react';
-import NavBar from "./Compoments/NavBar";
+import Home from "./Compoments/Home";
 
 
 function App() {
   return (
-      <NavBar/>
+      <Home/>
   );
 }
 
