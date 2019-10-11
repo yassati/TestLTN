@@ -33,4 +33,20 @@ code {
   color: white;
   padding-left:2% ;
 }
-
+.imgvideo{
+  width: 200px;
+  height: 200px;
+}
+.infosPra{
+  border: solid 1px darkgrey;
+}
+.borderLeft{
+  border-left: solid 1px darkgrey;
+  padding-left: 5%;
+}
+.gif{
+  padding-top: 3%;
+}
+.imgs{
+  margin-left: 5%;
+}
