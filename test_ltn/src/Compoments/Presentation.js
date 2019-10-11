@@ -5,7 +5,7 @@ import { FaWarehouse, FaYoutube, FaMusic, FaCubes, FaDatabase, FaPlay } from 're
 export default class Presentation extends React.Component {
     render() {
         return (
-            <div className={"container"}>
+            <div className={"container pre"}>
                 <h3>Présentation</h3>
                 <hr/>
                 <div className={"row"}>
@@ -31,7 +31,7 @@ export default class Presentation extends React.Component {
                     <div className={"infosPra col"} >
                         <h4>Informations pratiques</h4>
                         <div className={"borderLeft"}>
-                            <IconContext.Provider value={{ color: "green"}}>
+                            <IconContext.Provider value={{ color: "#09d3ac"}}>
                                 <p><FaWarehouse/> Paris, France (peut se déplacer)</p>
                                 <p><FaPlay/> Jazz / Guinguette</p>
                                 <p><FaDatabase/> Reprise: Oui</p>
