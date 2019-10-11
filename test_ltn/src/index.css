@@ -24,7 +24,7 @@ code {
 }
 .details{
   width: 50%;
-  top: 183px;
+  top: 203px;
   left: 3%;
   position: absolute !important;
   z-index: 2;
@@ -55,8 +55,14 @@ code {
 }
 .live{
   color: #09d3ac;
-  padding-left: 8%;
+  padding-left: 4%;
 }
 .size{
   font-size: xx-large;
+}
+.titleService{
+  color: #09d3ac;
+}
+.service{
+  border-bottom: dotted 1px darkgrey;
 }
