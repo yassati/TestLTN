@@ -6,6 +6,7 @@ import Repertoire from "./Repertoire";
 import Services from "./Services";
 import Cagnotte from "./Cagnotte";
 import Avis from "./Avis"
+import Footer from "./Footer";
 
 
 export default class Home extends React.Component {
@@ -19,6 +20,7 @@ export default class Home extends React.Component {
                 <Services/>
                 <Cagnotte/>
                 <Avis/>
+                <Footer/>
             </div>
         );
     }

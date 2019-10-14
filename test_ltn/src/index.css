@@ -86,5 +86,20 @@ code {
 }
 .ava{
   margin-bottom: 2%;
-
+}
+.footer{
+  border-top: solid 1px darkgrey;
+}
+.fo{
+  padding-top: 2%;
+}
+.imgsFooter{
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+.imgFooter1{
+  width: 80px;
+}
+.imgFooter2{
+  width: 180px;
 }

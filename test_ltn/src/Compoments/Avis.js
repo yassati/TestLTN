@@ -18,7 +18,7 @@ export default class Avis extends React.Component {
                     </div>
                     <div className={"row"}>
                         <div className={"col-2 ava"}>
-                            <img className="avatar" src="https://res.cloudinary.com/dcyafbpoh/image/upload/c_fill,f_auto,g_auto,h_80,q_auto:eco,w_80/elvis.png"/>
+                            <img className="avatar" alt={"img"} src="https://res.cloudinary.com/dcyafbpoh/image/upload/c_fill,f_auto,g_auto,h_80,q_auto:eco,w_80/elvis.png"/>
                             <div><em>Profil anonyme</em></div>
                         </div>
                         <div className={"col-10"}>
@@ -34,7 +34,7 @@ export default class Avis extends React.Component {
                 <div className={"avis"}>
                     <div className={"row"}>
                         <div className={"col-2 ava"}>
-                            <img className="avatar" src="https://res.cloudinary.com/dcyafbpoh/image/upload/c_fill,f_auto,g_auto,h_80,q_auto:eco,w_80/elvis.png"/>
+                            <img className="avatar" alt={"img"}  src="https://res.cloudinary.com/dcyafbpoh/image/upload/c_fill,f_auto,g_auto,h_80,q_auto:eco,w_80/elvis.png"/>
                             <div><em>Profil anonyme</em></div>
                         </div>
                         <div className={"col-10"}>
@@ -48,10 +48,10 @@ export default class Avis extends React.Component {
                         </div>
                     </div>
                 </div>
-                <div className={"avis"}>
+                <div className={"aviss"}>
                     <div className={"row"}>
                         <div className={"col-2 ava"}>
-                            <img className="avatar" src="https://res.cloudinary.com/dcyafbpoh/image/upload/c_fill,f_auto,g_auto,h_80,q_auto:eco,w_80/elvis.png"/>
+                            <img className="avatar" alt={"img"}  src="https://res.cloudinary.com/dcyafbpoh/image/upload/c_fill,f_auto,g_auto,h_80,q_auto:eco,w_80/elvis.png"/>
                             <div><em>Profil anonyme</em></div>
                         </div>
                         <div className={"col-10"}>

@@ -14,15 +14,15 @@ export default class Presentation extends React.Component {
                         <div className={"row"}>
                             <div className={"imgs"}>
                                 <img className={"imgvideo"} alt={"img yb"} src={"https://img.youtube.com/vi/f2PA1grSHGg/0.jpg"} />
-                                <p>When Hollywood Goes Black</p>
+                                <p className={"text-center"}>When Hollywood Goes Black</p>
                             </div>
                             <div className={"imgs"}>
                                 <img className={"imgvideo"} alt={"img yb"} src={"https://img.youtube.com/vi/W7NcC0CWl6I/0.jpg"} />
-                                <p>Deed I Do</p>
+                                <p className={"text-center"}>Deed I Do</p>
                             </div>
                             <div className={"imgs"}>
                                 <img className={"imgvideo"} alt={"img yb"} src={"https://img.youtube.com/vi/pfDhuoyD4nM/0.jpg"} />
-                                <p>Teaser EP / Killin Jive</p>
+                                <p className={"text-center"}>Teaser EP / Killin Jive</p>
 
                             </div>
                         </div>
