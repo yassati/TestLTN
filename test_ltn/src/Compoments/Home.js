@@ -7,7 +7,7 @@ import Services from "./Services";
 import Cagnotte from "./Cagnotte";
 import Avis from "./Avis"
 import Footer from "./Footer";
-
+import SocialNetworks from "./SocialNetworks";
 
 export default class Home extends React.Component {
     render() {
@@ -20,6 +20,7 @@ export default class Home extends React.Component {
                 <Services/>
                 <Cagnotte/>
                 <Avis/>
+                <SocialNetworks/>
                 <Footer/>
             </div>
         );

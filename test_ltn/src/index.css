@@ -103,3 +103,15 @@ code {
 .imgFooter2{
   width: 180px;
 }
+.SocialNet{
+  list-style: none;
+  position: fixed;
+  right: 20px;
+  top: 31%;
+  z-index: 2;
+  margin: 10px 5px;
+  padding: 5px;
+}
+.sn{
+  padding-bottom: 10px;
+}
