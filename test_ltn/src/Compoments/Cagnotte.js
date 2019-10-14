@@ -26,7 +26,7 @@ export default class Cagnotte extends React.Component {
                         </div>
                     </div>
                     <div className={"col-5 "}>
-                            <div className={"row"}>
+                            <div className={"row text-center"}>
                                 <div className={"col-4"}>
                                     <h1>1.</h1>
                                     <p className={"textCagnotte"}>Contactez et échangez avec le musicien.</p>
@@ -42,7 +42,7 @@ export default class Cagnotte extends React.Component {
                             </div>
                     </div>
                     <div className={"col-2"}>
-                        <p>Intéressé ? Contactez-nous à l'adresse suivante: booking@livetonight.fr</p>
+                        <p className={"text-center pt-30"}>Intéressé ? Contactez-nous à l'adresse suivante: booking@livetonight.fr</p>
                     </div>
                 </div>
             </div>

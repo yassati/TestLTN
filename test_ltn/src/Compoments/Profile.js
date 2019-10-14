@@ -1,4 +1,6 @@
 import React from 'react';
+import {IconContext} from "react-icons";
+import { FaStar } from 'react-icons/fa';
 
 export default class Profile extends React.Component {
     render() {
@@ -10,7 +12,9 @@ export default class Profile extends React.Component {
                     <div className={"infos"} >
                         <h3 className={"name"}>Dyslexic Swing & The Silent Brocoli</h3>
                         <p>Jazz / Guinguette<br/>
-                            5/5<br/>
+                            <IconContext.Provider value={{ color: "#09d3ac", size: "25px"}}>
+                                <FaStar/><FaStar/><FaStar/><FaStar/><FaStar/>
+                            </IconContext.Provider><br/>
                             à partir de 790 €
                         </p>
                         <button type="button" className="btn btn-outline-light">Reserver</button>
