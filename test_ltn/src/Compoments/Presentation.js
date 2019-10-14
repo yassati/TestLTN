@@ -13,15 +13,15 @@ export default class Presentation extends React.Component {
                         <p>Créé en 2015 dans l'esprit du Hot Club de France, Dyslexic Swing & The Silent Brocoli re-dynamise le jazz manouche et le swing américain des jump bands avec une jubilation contagieuse et des références solides : le swing de Django et le swag de Grappelli ! </p>
                         <div className={"row"}>
                             <div className={"imgs"}>
-                                <img className={"imgvideo"} src={"https://img.youtube.com/vi/f2PA1grSHGg/0.jpg"} />
+                                <img className={"imgvideo"} alt={"img yb"} src={"https://img.youtube.com/vi/f2PA1grSHGg/0.jpg"} />
                                 <p>When Hollywood Goes Black</p>
                             </div>
                             <div className={"imgs"}>
-                                <img className={"imgvideo"} src={"https://img.youtube.com/vi/W7NcC0CWl6I/0.jpg"} />
+                                <img className={"imgvideo"} alt={"img yb"} src={"https://img.youtube.com/vi/W7NcC0CWl6I/0.jpg"} />
                                 <p>Deed I Do</p>
                             </div>
                             <div className={"imgs"}>
-                                <img className={"imgvideo"} src={"https://img.youtube.com/vi/pfDhuoyD4nM/0.jpg"} />
+                                <img className={"imgvideo"} alt={"img yb"} src={"https://img.youtube.com/vi/pfDhuoyD4nM/0.jpg"} />
                                 <p>Teaser EP / Killin Jive</p>
 
                             </div>

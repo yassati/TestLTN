@@ -66,3 +66,17 @@ code {
 .service{
   border-bottom: dotted 1px darkgrey;
 }
+.nouveau{
+  color: white;
+  background: red;
+  height: 2.5%;
+  margin-left: 1%;
+  margin-top: 0.6%;
+}
+.textCagnotte{
+  font-size: small;
+}
+.cagnotte{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}

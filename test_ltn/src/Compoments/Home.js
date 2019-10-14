@@ -4,6 +4,7 @@ import Profile from "./Profile";
 import Presentation from "./Presentation";
 import Repertoire from "./Repertoire";
 import Services from "./Services";
+import Cagnotte from "./Cagnotte";
 
 
 export default class Home extends React.Component {
@@ -15,6 +16,7 @@ export default class Home extends React.Component {
                 <Presentation/>
                 <Repertoire/>
                 <Services/>
+                <Cagnotte/>
             </div>
         );
     }
